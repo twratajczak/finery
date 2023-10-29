@@ -8,7 +8,8 @@ module Blazer
           "blazer/application.js",
           "blazer/module.js",
           "blazer/application.css",
-          "blazer/favicon.png"
+          "finery/logo.svg",
+          "finery/favicon.png"
         ]
       else
         # use a proc instead of a string
